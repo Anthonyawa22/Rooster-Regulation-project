@@ -1,0 +1,14 @@
+{
+  "name": "rooster-regulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ../index"
+  },
+  "author": "anthony awa",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
