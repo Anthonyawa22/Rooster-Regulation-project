@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ../index"
+    "test": "mocha test/**/*_test.js"
   },
   "author": "anthony awa",
   "license": "ISC",
